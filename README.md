@@ -1,7 +1,7 @@
 # SE301Note
 My note for a software engneering course (java base), which is a Obsidian vault.
 
-<a>Usage</a>
+<big>Usage</big>
 1. Down load Obsidian. https://obsidian.md/download
 2. Down load the note.
 3. Make sure you have all the 3rd party plug-ins:
